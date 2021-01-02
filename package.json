@@ -1,5 +1,5 @@
 {
-  "name": "MernStack",
+  "name": "MERN",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -15,7 +15,7 @@
 
   },
   "keywords": [],
-  "author": "",
+  "author": "zoak",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.0",
